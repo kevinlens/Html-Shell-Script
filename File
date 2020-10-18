@@ -19,3 +19,14 @@
 </body>
 
 </html>
+
+
+
+/*--------------Default declaration for every website project------------*/
+html,body{
+    margin: 0%;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    overflow-x:hidden;
+}
+/*------x-------Default declaration for every website project-----x-------*/
